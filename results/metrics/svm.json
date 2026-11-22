@@ -1,9 +1,9 @@
 {
   "model": "SVM",
   "family": "Traditional ML",
-  "accuracy": 0.8920289855072464,
-  "precision": 0.892264424501567,
-  "recall": 0.8920289855072464,
-  "f1_score": 0.8919540126817473,
-  "train_time_s": 8.7
+  "accuracy": 0.8913043478260869,
+  "precision": 0.891700251607045,
+  "recall": 0.8913043478260869,
+  "f1_score": 0.8911681931990776,
+  "train_time_s": 7.4
 }
