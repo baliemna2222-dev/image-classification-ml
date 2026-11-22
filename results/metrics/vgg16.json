@@ -1,0 +1,9 @@
+{
+  "model": "VGG16",
+  "family": "Deep Learning",
+  "accuracy": 0.9847826086956522,
+  "precision": 0.984808638203112,
+  "recall": 0.9847826086956522,
+  "f1_score": 0.9847717364048203,
+  "train_time_s": 767.4
+}

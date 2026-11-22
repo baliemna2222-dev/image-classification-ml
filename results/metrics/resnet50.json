@@ -1,0 +1,9 @@
+{
+  "model": "ResNet50",
+  "family": "Deep Learning",
+  "accuracy": 0.9876811594202899,
+  "precision": 0.9876627397516295,
+  "recall": 0.9876811594202899,
+  "f1_score": 0.9876308887783155,
+  "train_time_s": 353.5
+}

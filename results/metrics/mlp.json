@@ -1,0 +1,9 @@
+{
+  "model": "MLP",
+  "family": "Deep Learning",
+  "accuracy": 0.8021739130434783,
+  "precision": 0.8009297473461975,
+  "recall": 0.8021739130434783,
+  "f1_score": 0.798086363981348,
+  "train_time_s": 259.2
+}

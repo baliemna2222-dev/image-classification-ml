@@ -1,0 +1,9 @@
+{
+  "model": "CNN",
+  "family": "Deep Learning",
+  "accuracy": 0.9311594202898551,
+  "precision": 0.9360068914183624,
+  "recall": 0.9311594202898551,
+  "f1_score": 0.9316432288562576,
+  "train_time_s": 570.1
+}

@@ -1,0 +1,9 @@
+{
+  "model": "Decision Tree",
+  "family": "Traditional ML",
+  "accuracy": 0.6289855072463768,
+  "precision": 0.6426293825376039,
+  "recall": 0.6289855072463768,
+  "f1_score": 0.6347950808642732,
+  "train_time_s": 5.5
+}

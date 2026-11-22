@@ -1,0 +1,9 @@
+{
+  "model": "Logistic Regression",
+  "family": "Traditional ML",
+  "accuracy": 0.8304347826086956,
+  "precision": 0.8316429161779071,
+  "recall": 0.8304347826086956,
+  "f1_score": 0.8309631485569137,
+  "train_time_s": 6.3
+}

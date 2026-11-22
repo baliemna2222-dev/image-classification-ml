@@ -1,0 +1,9 @@
+{
+  "model": "KNN",
+  "family": "Traditional ML",
+  "accuracy": 0.763768115942029,
+  "precision": 0.8207968623303937,
+  "recall": 0.763768115942029,
+  "f1_score": 0.7294912549469584,
+  "train_time_s": 0.0
+}

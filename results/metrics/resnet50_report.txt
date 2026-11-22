@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+    airplane       0.99      0.99      0.99       145
+         car       0.99      1.00      1.00       194
+         cat       0.96      0.95      0.96       177
+         dog       0.98      0.95      0.96       140
+      flower       0.98      1.00      0.99       169
+       fruit       1.00      1.00      1.00       200
+   motorbike       1.00      0.99      1.00       158
+      person       1.00      1.00      1.00       197
+
+    accuracy                           0.99      1380
+   macro avg       0.99      0.99      0.99      1380
+weighted avg       0.99      0.99      0.99      1380
